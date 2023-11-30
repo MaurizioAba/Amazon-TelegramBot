@@ -1,0 +1,6 @@
+six==1.15.0
+certifi==
+urllib3>=2.0.4
+python-telegram-bot
+python_dateutil==2.8.2
+simplejson==3.17.5
